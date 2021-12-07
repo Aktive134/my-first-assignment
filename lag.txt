@@ -1,0 +1,1 @@
+This is just a textfile that helps me complete my first assignment on git
